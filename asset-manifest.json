@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//emmabasseyokon.github.io/smoothie/static/css/main.8f0f220a.css",
+    "main.js": "/https//emmabasseyokon.github.io/smoothie/static/js/main.83c3c4fb.js",
+    "static/js/289.df4dc34c.chunk.js": "/https//emmabasseyokon.github.io/smoothie/static/js/289.df4dc34c.chunk.js",
+    "index.html": "/https//emmabasseyokon.github.io/smoothie/index.html",
+    "main.8f0f220a.css.map": "/https//emmabasseyokon.github.io/smoothie/static/css/main.8f0f220a.css.map",
+    "main.83c3c4fb.js.map": "/https//emmabasseyokon.github.io/smoothie/static/js/main.83c3c4fb.js.map",
+    "289.df4dc34c.chunk.js.map": "/https//emmabasseyokon.github.io/smoothie/static/js/289.df4dc34c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f0f220a.css",
+    "static/js/main.83c3c4fb.js"
+  ]
+}
